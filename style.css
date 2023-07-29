@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+    box-sizing: border-box;
+}
+main{
+    padding: 10px;
+}
+
+header{
+    background-color: blue;
+    color: #fff;
+}
+nav{
+    padding: 20px 0;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+ul li{
+    display: flex;
+}
+h1{
+    font-size: 20px;
+    margin: 10px 0 20px 0;
+}
